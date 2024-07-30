@@ -23,7 +23,7 @@ repositories {
 }
 
 dependencies {
-    paperweightDevelopmentBundle("io.papermc.paper:dev-bundle:1.21-R0.1-SNAPSHOT")
+    paperweightDevelopmentBundle("io.papermc.paper:dev-bundle:1.18.2-R0.1-SNAPSHOT")
     implementation("net.elytrium:serializer:1.1.1")
     implementation("com.jnngl:mapcolor:1.0.1")
     compileOnly("io.papermc.paper:paper-api:1.21-R0.1-SNAPSHOT")
